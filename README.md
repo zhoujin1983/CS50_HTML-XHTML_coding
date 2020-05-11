@@ -17,4 +17,4 @@
 [Cycle Pathology](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t4-Cycle%20Pathology/cycle.htm)
 
 * Tutorial Project 5 -- Working with Tables and Columns:
-[KPAF Radio](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t5-KPAF%Radio/sched.htm)
+[KPAF Radio](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t5-KPAF%20Radio/sched.htm)
