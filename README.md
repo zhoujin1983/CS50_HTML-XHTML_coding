@@ -18,3 +18,6 @@
 
 * Tutorial Project 5 -- Working with Tables and Columns:
 [KPAF Radio](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t5-KPAF%20Radio/sched.htm)
+
+* Tutorial Project 6 -- Creating a Web Form:
+[KPAF Radio](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t6-Red%20Ball%20Pizza/survey.htm)
