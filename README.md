@@ -21,3 +21,7 @@
 
 * Tutorial Project 6 -- Creating a Web Form:
 [Red Ball Pizza](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t6-Red%20Ball%20Pizza/survey.htm)
+
+* Tutorial Project 7 -- Designing a Multimedia Website:
+[Jumbo Popcorn](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t7-%20Jumbo%20Popcorn/jumbo.htm)
+
