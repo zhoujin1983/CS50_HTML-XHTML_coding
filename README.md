@@ -5,7 +5,7 @@
 
 ####  List of homework projects
 * Tutorial Project 1 -- Getting started with HTML5:
-[J prop Shop](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t1-%20The%20J-Prop%20Shop/jprop.htm)
+[J Prop Shop](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t1-%20The%20J-Prop%20Shop/jprop.htm)
 
 * Tutorial Project 2 -- Developing a Website:
 [CAM Shots](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t2-CAMshots/home.htm)
