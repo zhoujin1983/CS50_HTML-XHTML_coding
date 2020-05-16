@@ -25,3 +25,5 @@
 * Tutorial Project 7 -- Designing a Multimedia Website:
 [Jumbo Popcorn](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t7-%20Jumbo%20Popcorn/jumbo.htm)
 
+* Tutorial Project 8 -- Enhancing Website with Advanced CSS:
+[Tree Book](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t8-Tree%20and%20Book/treebook.htm)
