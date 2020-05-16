@@ -1,7 +1,7 @@
 # CS50_HTML-XHTML_coding
 
 ## This repo includes all the homework projects for Irvine Valley College CS50. 
-### Text book is HTML, CSS and XML 4th edition by carey, Vodnik.
+### Text book is HTML, CSS and XML 4th edition by Carey, Vodnik.
 
 ####  List of homework projects
 * Tutorial Project 1 -- Getting started with HTML5:
