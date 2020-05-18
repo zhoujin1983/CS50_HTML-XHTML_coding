@@ -1,0 +1,80 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 5
+   Review Assignment
+
+   Programming Table Style Sheet
+   Author: Zhou,Jin
+   Date:   03/26/2020
+
+   Filename:         programs.css
+   Supporting Files: 
+
+*/
+
+/* Styles for the programm table */
+
+table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+caption {
+    text-align: left;
+    caption-side: bottom;
+    font-size: 0.8em;
+}
+tbody {
+    font-size:0.7em;
+    vertical-align: top;
+    border: 1px solid gray;
+    padding: 0.8em;
+}
+
+/* Styles for the table rows */
+tr {
+    height: 25px;
+}
+
+/* Styles for the header row group */
+thead {
+    background-color: rgb(105,177,60);
+}
+thead th {
+    color: white;    
+    font-size: 0.7em;
+    border: 1px solid gray;
+}
+thead tr th:first-of-type {
+    background-color: rgb(153,86,7);
+}
+thead tr th:nth-of-type(7) { 
+        background-color: rgb(153,0,153);
+}
+thead tr th:last-of-type {
+    background-color: rgb(153,0,153);
+}
+
+/* Styles for the three column groups */
+col.timeColumn {
+    width: 10%; 
+    background-color: rgb(215,205,151);
+
+}
+col.wDayColumn {
+    width: 11%;
+    background-color: rgb(236,255,211);
+}
+col.wEndColumn {
+    width: 17%;
+    background-color: rgb(255,231,255);
+}
+
+/* Three column layout for the introductory paragraph */
+section#intro p {
+    column-count: 3;
+    column-gap: 20px;
+    column-rule: 1px solid black;
+}
