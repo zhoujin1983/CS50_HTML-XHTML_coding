@@ -25,6 +25,9 @@
 * Midterm Project 1:
 [Holdiay on Farm](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/MT1-Holiday%20on%20the%20Farm/holiday.htm)
 
+* Midterm Project 2:
+[Holdiay on Farm](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/MT2-%20KPAF%20Morning%20Schedule/morning.htm)
+
 * Tutorial Project 7 -- Designing a Multimedia Website:
 [Jumbo Popcorn](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t7-%20Jumbo%20Popcorn/jumbo.htm)
 
