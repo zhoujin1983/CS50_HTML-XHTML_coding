@@ -33,3 +33,6 @@
 
 * Tutorial Project 8 -- Enhancing Website with Advanced CSS:
 [Tree Book](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t8-Tree%20and%20Book/treebook.htm)
+
+* Tutorial Project 9 -- Working with XHTML:
+[Fireworks](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t9-Wizard%20Works%20Fireworks/works.htm)
