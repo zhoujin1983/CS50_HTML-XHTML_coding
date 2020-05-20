@@ -36,3 +36,6 @@
 
 * Tutorial Project 9 -- Working with XHTML:
 [Fireworks](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t9-Wizard%20Works%20Fireworks/works.htm)
+
+* Tutorial Project 10 -- Programming with Javascript:
+[Fireworks](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/t10-Monroe%20Public%20Library/mpl.htm)
