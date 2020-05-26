@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone ="yes" ?>
+<?xml-stylesheet type="text/css" href="resale.css" ?>
+
+<!-- 
+SJB Pet Boutique resale products, latest offerings
+
+Filename: resale.xml
+Author: Zhou,Jin
+Date:   2020/5/17 
+-->
+
+<resale_products xmlns="http://example.com/sjbpetboutique/sale">
+  
+
+<title>Resale Products</title>
+  
+<subtitle>Latest Offering</subtitle>
+
+  <product>
+    <description>8" Hamster Travel Cage</description>
+    <condition>Good</condition>
+    <price>
+      <originalPrice currency="USD">$35</originalPrice>
+      <salePrice currency="USD">$15</salePrice>
+    </price>
+    <commission>15%</commission>
+    
+  </product>
+
+  <product>
+    <description>Dog and Cat Doorstop</description>
+    <condition>Excellent</condition>
+    <price>
+      <originalPrice currency="USD">$70</originalPrice>
+      <salePrice currency="USD">$20</salePrice>
+    </price>
+    <commission>10%</commission>
+    
+  </product>
+
+  <product>
+    <description>Puppy Dog Rhinestone Collar</description>
+    <condition>Excellent</condition>
+    <price>
+      <originalPrice currency="USD">$25</originalPrice>
+      <salePrice currency="USD">$10</salePrice>
+    </price>
+    <commission>15%</commission>
+    
+  </product>
+
+  <product>
+    <description>30" Kitty Travel Cage</description>
+    <condition>New</condition>
+    <price>
+      <originalPrice currency="USD">$40</originalPrice>
+      <salePrice currency="USD">$35</salePrice>
+    </price>
+    <commission>20%</commission>
+    
+  </product>
+
+  <message>
+    <![CDATA[
+    Interested in resale? The SJB Pet Boutique will publish for resale select items purchased
+    at our store that you or your owner have outgrown.  All sales are "as-is"
+    condition.  A commission is charged for listing the item for resale.  If your resale item
+    is sold and you purchase a new item at our store using the money from the sale of the item,
+    you can save 50% off our commission price! ]]>&#9786;
+  </message>
+</resale_products>
