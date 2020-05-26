@@ -47,4 +47,4 @@
 [Dudeck Family](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/FL_1_Dubcek%20Family%20Page/dubcek.htm)
 
 * Final Project 2:
-[Resale Product](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/FL_2_The SJB%20Boutique%20Resale%20Products/resale.xml)
+[Resale Product](https://zhoujin1983.github.io/CS50_HTML-XHTML_coding/FL_2_The%20SJB%20Boutique%20Resale%20Products/resale.xml)
